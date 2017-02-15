@@ -1,0 +1,43 @@
+/* Cascading Style Sheet */
+          
+h2 {
+    color: rgb(120, 71, 211);
+    text-shadow: 7px 6px rgba(158, 65, 211, .3);
+    font-size: 300%;
+    text-align: center;
+}
+          
+body {
+    color: rgba(240,128,128, .8);
+    font-size: 125%;
+    font-family: "Courier New";
+              
+    background-image: URL("https://images3.alphacoders.com/819/thumb-1920-81939.jpg");
+}
+          
+table {
+    border: 1px solid black;
+    font-size: 16px;
+    background-color: rgba(156, 114, 255, .6);
+}
+          
+td {
+    background-color: rgba(113, 53, 255, .6);
+    border: 1px solid black;
+}
+          
+a {
+    color: purple;
+}
+          
+.otherpurple {
+    color: rebeccapurple;
+}
+          
+.otherotherpurple {
+    color: darkslateblue;
+}
+          
+a:hover {
+    text-decoration: none;   
+}
