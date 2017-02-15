@@ -37,6 +37,10 @@ a {
 .otherotherpurple {
     color: darkslateblue;
 }
+
+.tripleotherpurple {
+    color: rgba(119, 66, 244, .6)
+}
           
 a:hover {
     text-decoration: none;   
