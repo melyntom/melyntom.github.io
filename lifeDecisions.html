@@ -1,0 +1,44 @@
+<html>
+
+    <head>
+    
+        <title>Life Decision Maker</title>
+    
+    </head>
+    
+    <style>
+    
+        * {
+            background-image: URL("http://wallpapercave.com/wp/w0UvOCq.jpg");
+            color: rgba(255,215,0, .6);
+            
+            font-size: x-large;
+        }
+        
+    </style>
+    
+    <body>
+        
+        <h1>Life Decision Maker</h1>
+    
+        <script>
+        
+            var drinks = ["orange juice", "beer", "milk", "water", "soda", "coffee", "tea", "hot chocolate"];
+            
+            
+            //Index == Number Assigned to a Choice In the Array
+            //Pick Random Index to Access
+            
+            
+            var randDrinkNum = Math.floor(Math.random() * drinks.length);
+            
+            // Print Based On Random Number
+            // 0 is Orange Juice, 4 is Water, 7 is Hot Chocolate, etc.
+            
+            document.write("You should drink <b>" + drinks[randDrinkNum] + "</b> today.");
+        
+        </script>
+    
+    </body>
+
+</html>
