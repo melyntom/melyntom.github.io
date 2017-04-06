@@ -1,5 +1,5 @@
 /* Cascading Style Sheet */
           
 * {
-	background-image: URL("http://wallpaper-gallery.net/images/abstract-wallpaper-purple/abstract-wallpaper-purple-6.jpg");	
+	background: url("http://wallpaper-gallery.net/images/abstract-wallpaper-purple/abstract-wallpaper-purple-6.jpg") no-repeat;
 }
