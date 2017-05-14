@@ -1,0 +1,44 @@
+<html>
+
+    <head>
+    
+        <title>Number Guessing Game</title>
+    
+    </head>
+    
+    <body>
+    
+        <script>
+
+            // Set Minimum and Maximum for the Guess
+            const MAX_GUESS = 25;
+            
+            // Create a Computer Guess.
+            var computerGuess = Math.floor(Math.random() * MAX_GUESS) + 1;
+            
+            // Keep Asking the User to Guess Until They Get It Right.
+            while (computerGuess != numberGuess) {
+                
+            
+                // Get user's name and store in variable.
+                var numberGuess = prompt("Enter your guess (for a number between 1 and 25):");
+            
+                /* Compare Guesses
+                Double Equals (==) Converts the String to an Integer */
+            
+                if (computerGuess == numberGuess) {
+                    document.write("<br /><b>You Guessed the Number!</b><br />")
+                    document.write("<i>Your Number Guess Was: </i>" + numberGuess);
+                }
+                
+                else {
+                    alert("Your Guess Was Incorrect.");
+                    document.write("<i>Your Number Guess Was: </i>" + numberGuess + "<br />");
+                }
+            }
+    
+        </script>
+            
+    </body>
+    
+</html>
