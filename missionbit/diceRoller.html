@@ -1,0 +1,36 @@
+<html>
+
+    <head>
+    
+        <title>Dice Roller</title>
+    
+    <head>
+        
+    <style>
+        
+        body {
+            background-color: rgba(128, 66, 244, .8);
+            width: 100%;
+        }
+        
+    </style>
+        
+    <body>
+        
+        <img onclick="diceRoll();"
+             src="http://www.iconsdb.com/icons/preview/purple/dice-xxl.png">
+        
+        <div id="output"></div>
+        
+        <script>
+            
+            function diceRoll() {
+            var randNum = Math.floor(Math.random() * 6) + 1;
+            document.getElementById("output").innerHTML = "<h3>" + randNum + "</h3>";
+            }
+            
+        </script>
+    
+    </body>
+
+</html>
