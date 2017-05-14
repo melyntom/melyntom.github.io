@@ -1,0 +1,60 @@
+/* Cascading Style Sheet */
+
+body {
+  background-color: black;
+  color: rgb(21, 0, 255);
+}
+
+h1 { 
+  font-family: 'Cinzel Decorative', cursive;
+      text-shadow: 0 1px rgb(165, 132, 255), 1px 0 rgb(165, 132, 255);
+}
+
+marquee {
+  color: rgb(51, 0, 255);
+  font-family: 'Indie Flower', cursive;
+}
+
+p, ul {
+  color: rgb(76, 0, 255);
+  font-family: 'Indie Flower', cursive;
+}
+
+.neonpurple {
+  color: rgb(191, 0, 255);
+  font-family: 'Macondo', cursive;
+}
+
+.neonpink {
+  color: rgb(255, 0, 72);
+  font-family: 'Spirax', cursive;
+}
+
+.neonaqua {
+  color: rgb(0, 255, 255);
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#rcorners {
+    border-radius: 25px;
+    border: 2px solid rgb(0, 246, 255);
+    padding: 5px;
+}
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid rgb(191, 0, 255);
+    padding: 5px;
+}
+
+#rcorners3 {
+    border-radius: 25px;
+    border: 2px solid rgb(255, 0, 72);
+    padding: 5px;
+}
+
+#rcorners4 {
+    border-radius: 25px;
+    border: 2px solid rgb(0, 255, 229);
+    padding: 5px;
+}
