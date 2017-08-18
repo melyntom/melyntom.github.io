@@ -2,4 +2,4 @@
 
 Previously at vivicca28.github.io
 <br />
-Personal respitory for own learning in computer programming.
+Personal respitory for individual learning in computer programming.
