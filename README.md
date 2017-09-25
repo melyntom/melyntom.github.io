@@ -4,7 +4,7 @@
 
 Previously at vivicca28.github.io
 
-Personal respitory for individual learning in computer programming.
+Personal respitory for individual learning projects in the subject of computer programming and web development
 
 
 ## Portfolio Site
