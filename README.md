@@ -13,25 +13,25 @@ A basic portfolio website that features some projects and incorporates responsiv
 
 [Portfolio Site](https://marylynntom.github.io/udacity/index.html)
 
-[Portfolio Site Directory](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/udacity)
+[Portfolio Site Directory](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/udacity/)
 
 
 ## Mission Bit (Semester One Projects)
 
 Some beginning level projects from my first semester in web development and design
 
-[Home](marylynntom.github.io/missionbit)
+[Home](https://marylynntom.github.io/missionbit/index.html)
 
-[Other Projects](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit)
+[Other Projects](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit/)
 
 
 ## Mission Bit (Year Two Projects)
 
 Some basic intermediate level projects from my second semester in web development and design
 
-[Home](marylynntom.github.io/missionbit2)
+[Home](https://marylynntom.github.io/missionbit2/index.html)
 
-[Other Projects](http://www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit2)
+[Other Projects](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit2/)
 
 
 ## Happy Potato Game
@@ -40,6 +40,6 @@ A mini platform game that incorporates Phaser framework, from my first semester 
 
 (Created with other Mission Bit students in a group effort)
 
-[Game](marylynntom.github.io/udacity)
+[Game](https://marylynntom.github.io/HappyPotato/index.html)
 
-[Game Files](http://www.github.com/marylynntom/marylynntom.github.io/tree/master/udacity)
+[Game Files](httsp://www.github.com/marylynntom/marylynntom.github.io/tree/master/udacity/)
