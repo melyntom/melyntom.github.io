@@ -1,6 +1,6 @@
 # marylynntom.github.io | Directory
 
-[Full Directory](github.com/marylynntom/marylynntom.gtihub.io)
+[Full Directory](https://github.com/marylynntom/marylynntom.gtihub.io)
 
 Previously at vivicca28.github.io
 
