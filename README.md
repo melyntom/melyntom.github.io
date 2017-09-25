@@ -16,6 +16,15 @@ A basic portfolio website that features some projects and incorporates responsiv
 [Portfolio Site Directory](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/udacity/)
 
 
+## Amelia Summers' Photography Site
+
+A web development and design project in collaboration with Amelia Summers
+
+[Home](https://ameliasummers.github.io/index.html)
+
+[Website Repository](https://www.github.com/ameliasummers/ameliasummers.github.io/)
+
+
 ## Mission Bit (Semester One Projects)
 
 Some beginning level projects from my first semester in web development and design
