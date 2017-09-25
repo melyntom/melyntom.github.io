@@ -11,7 +11,7 @@ Personal respitory for individual learning in computer programming.
 
 A basic portfolio website that features some projects and incorporates responsive web design techniques
 
-[Portfolio Site](udacity/index.html)
+[Portfolio Site](https://marylynntom.github.io/udacity/index.html)
 
 [Portfolio Site Directory](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/udacity)
 
