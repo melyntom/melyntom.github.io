@@ -58,7 +58,7 @@ Small website development project for an introductory summer City College of San
 
 [Homepage](https://marylynntom.github.io/BlurpleIsAColor/index.html)
 
-[Website Repository](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/BlurpleIsAColor/)
+[Website Repository](https://www.github.com/marylynntom/BlurpleIsAColor/)
 
 
 ## Happy Potato Game
