@@ -69,4 +69,4 @@ A mini platform game that incorporates Phaser framework, from my first semester 
 
 [Game](https://marylynntom.github.io/HappyPotato/index.html)
 
-[Game Files](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/udacity/)
+[Game Files](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/HappyPotato/)
