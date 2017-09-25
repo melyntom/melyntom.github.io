@@ -58,7 +58,7 @@ Small website development project for an introductory summer City College of San
 
 [Homepage](https://marylynntom.github.io/BlurpleIsAColor/index.html)
 
-[Website Repository](https://www.github.com/marylynntom/BlurpleIsAColor/)
+[Website Repository](https://www.github.com/marylynntom/BlurpleIsAColor/tree/master)
 
 
 ## Happy Potato Game
@@ -69,4 +69,4 @@ A mini platform game that incorporates Phaser framework, from my first semester 
 
 [Game](https://marylynntom.github.io/HappyPotato/index.html)
 
-[Game Files](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/HappyPotato/)
+[Game Files](https://github.com/marylynntom/HappyPotato/tree/master)
