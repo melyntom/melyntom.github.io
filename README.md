@@ -20,7 +20,7 @@ A basic portfolio website that features some projects and incorporates responsiv
 
 A web development and design project in collaboration with Amelia Summers
 
-[Home](https://ameliasummers.github.io/index.html)
+[Homepage](https://ameliasummers.github.io/index.html)
 
 [Website Repository](https://www.github.com/ameliasummers/ameliasummers.github.io/)
 
@@ -29,7 +29,7 @@ A web development and design project in collaboration with Amelia Summers
 
 Some beginning level projects from my first semester in web development and design
 
-[Home](https://marylynntom.github.io/missionbit/index.html)
+[Homepage](https://marylynntom.github.io/missionbit/index.html)
 
 [Other Projects](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit/)
 
@@ -38,7 +38,7 @@ Some beginning level projects from my first semester in web development and desi
 
 Some basic intermediate level projects from my second semester in web development and design
 
-[Home](https://marylynntom.github.io/missionbit2/index.html)
+[Homepage](https://marylynntom.github.io/missionbit2/index.html)
 
 [Other Projects](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit2/)
 
@@ -47,7 +47,7 @@ Some basic intermediate level projects from my second semester in web developmen
 
 Official George Washington High School Girls Who Code Club project about women's health and safety
 
-[Home](https://washingtongwc.github.io/index.html)
+[Homepage](https://washingtongwc.github.io/index.html)
 
 [Directory](https://github.com/washingtongwc/washingtongwc.github.io/)
 
