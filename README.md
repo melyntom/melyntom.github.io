@@ -13,7 +13,7 @@ A basic portfolio website that features some projects and incorporates responsiv
 
 [Portfolio Site](marylynntom.github.io/udacity)
 
-[Portfolio Site Directory](www.github.com/marylynntom/marylynntom.github.io/tree/master/udacity)
+[Portfolio Site Directory](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/udacity)
 
 
 ## Mission Bit (Semester One Projects)
