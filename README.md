@@ -22,7 +22,7 @@ Some beginning level projects from my first semester in web development and desi
 
 [Home](marylynntom.github.io/missionbit)
 
-[Other Projects](www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit)
+[Other Projects](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit)
 
 
 ## Mission Bit (Year Two Projects)
@@ -31,7 +31,7 @@ Some basic intermediate level projects from my second semester in web developmen
 
 [Home](marylynntom.github.io/missionbit2)
 
-[Other Projects](www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit2)
+[Other Projects](http://www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit2)
 
 
 ## Happy Potato Game
@@ -42,4 +42,4 @@ A mini platform game that incorporates Phaser framework, from my first semester 
 
 [Game](marylynntom.github.io/udacity)
 
-[Game Files](www.github.com/marylynntom/marylynntom.github.io/tree/master/udacity)
+[Game Files](http://www.github.com/marylynntom/marylynntom.github.io/tree/master/udacity)
