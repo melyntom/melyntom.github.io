@@ -40,7 +40,7 @@ Some basic intermediate level projects from my second semester in web developmen
 
 [Homepage](https://marylynntom.github.io/missionbit2/index.html)
 
-[Other Projects](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit2/)
+[Other Projects](https://github.com/marylynntom/missionBit2/tree/master/)
 
 
 ## Girls Who Code: Women's Health and Safety
