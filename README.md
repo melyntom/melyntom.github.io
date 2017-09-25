@@ -49,7 +49,16 @@ Official George Washington High School Girls Who Code Club project about women's
 
 [Homepage](https://washingtongwc.github.io/index.html)
 
-[Website Repository](https://github.com/washingtongwc/washingtongwc.github.io/)
+[Website Repository](https://www.github.com/washingtongwc/washingtongwc.github.io/)
+
+
+## Blurple Is A Color
+
+Small website development project for an introductory summer City College of San Francisco course
+
+[Homepage](https://marylynntom.github.io/BlurpleIsAColor/index.html)
+
+[Website Repository](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/BlurpleIsAColor/)
 
 
 ## Happy Potato Game
