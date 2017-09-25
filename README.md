@@ -1,6 +1,6 @@
 # marylynntom.github.io | Directory
 
-[Full Directory](https://github.com/marylynntom/marylynntom.github.io)
+[Full Directory](https://github.com/marylynntom/marylynntom.github.io/)
 
 Previously at vivicca28.github.io
 
@@ -32,6 +32,15 @@ Some basic intermediate level projects from my second semester in web developmen
 [Home](https://marylynntom.github.io/missionbit2/index.html)
 
 [Other Projects](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit2/)
+
+
+## Girls Who Code: Women's Health and Safety
+
+Official George Washington High School Girls Who Code Club project about women's health and safety
+
+[Home](https://washingtongwc.github.io/index.html)
+
+[Directory](https://github.com/washingtongwc.github.io/)
 
 
 ## Happy Potato Game
