@@ -49,7 +49,7 @@ Official George Washington High School Girls Who Code Club project about women's
 
 [Homepage](https://washingtongwc.github.io/index.html)
 
-[Directory](https://github.com/washingtongwc/washingtongwc.github.io/)
+[Website Repository](https://github.com/washingtongwc/washingtongwc.github.io/)
 
 
 ## Happy Potato Game
