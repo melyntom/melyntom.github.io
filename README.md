@@ -31,7 +31,7 @@ Some beginning level projects from my first semester in web development and desi
 
 [Homepage](https://marylynntom.github.io/missionbit/index.html)
 
-[Other Projects](https://www.github.com/marylynntom/marylynntom.github.io/tree/master/missionbit/)
+[Other Projects](https://github.com/marylynntom/missionBit/tree/master/)
 
 
 ## Mission Bit (Semester Two Projects)
