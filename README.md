@@ -38,7 +38,7 @@ Some basic intermediate level projects from my second semester in web developmen
 
 A mini platform game that incorporates Phaser framework, from my first semester in web development
 
-(Created with other Mission Bit students)
+(Created with other Mission Bit students in a group effort)
 
 [Game](marylynntom.github.io/udacity)
 
