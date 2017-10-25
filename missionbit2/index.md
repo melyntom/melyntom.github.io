@@ -1,6 +1,6 @@
 # Mission Bit: Semester Two
 
-Note: Most of my projects and assignments for Mission Bit this semester are on CodePen.
+Note: Most of my assignments for Mission Bit this second semester are on CodePen.
 
 ## Directory
 
