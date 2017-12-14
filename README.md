@@ -70,3 +70,13 @@ A mini platform game that incorporates Phaser framework, from my first semester 
 [Game](https://marylynntom.github.io/HappyPotato/index.html)
 
 [Game Files](https://github.com/marylynntom/HappyPotato/tree/master/)
+
+## Derpy Apple vs. Happy Potato
+
+A Tron-inspired racing game coded entirely by hand in JavaScript Canvas, from my second semester in web development
+
+(Created with other Mission Bit students in a group effort)
+
+[Game](https://marylynntom.github.io/derpyAppleVsHappyPotato)
+
+[Game Files](https://github.com/marylynntom/derpyAppleVsHappyPotato/tree/master/)
