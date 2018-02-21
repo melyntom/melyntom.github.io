@@ -11,7 +11,7 @@ Personal respitory for individual learning projects in the subject of computer p
 
 A basic portfolio website that features some projects and incorporates responsive web design techniques
 
-[Portfolio Site](https://marylynntom.github.io/udacity/index.html)
+[Portfolio Site](https://marylynntom.github.io/UdacityPortfolioSite/index.html)
 
 [Portfolio Site Directory](https://github.com/marylynntom/UdacityPortfolioSite/tree/master/)
 
@@ -29,7 +29,7 @@ A web development and design project in collaboration with Amelia Summers
 
 Some beginning level projects from my first semester in web development and design
 
-[Homepage](https://marylynntom.github.io/missionbit/index.html)
+[Homepage](https://marylynntom.github.io/missionBit/index.html)
 
 [Other Projects](https://github.com/marylynntom/missionBit/tree/master/)
 
@@ -38,7 +38,7 @@ Some beginning level projects from my first semester in web development and desi
 
 Some basic intermediate level projects from my second semester in web development and design
 
-[Homepage](https://marylynntom.github.io/missionbit2/index.html)
+[Homepage](https://marylynntom.github.io/missionBit2/index.html)
 
 [Other Projects](https://github.com/marylynntom/missionBit2/tree/master/)
 
