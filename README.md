@@ -25,6 +25,15 @@ A web development and design project in collaboration with Amelia Summers
 [Website Repository](https://www.github.com/ameliasummers/ameliasummers.github.io/tree/master/)
 
 
+## Run To Your Beat
+
+A musical exercising project: first place winner of the Hack The Fog Hackathon 2018
+
+[Homepage](https://marylynntom.github.io/runToYourBeat/index.html)
+
+[Website Repository](https://github.com/marylynntom/runToYourBeat/tree/master/)
+
+
 ## Mission Bit (Semester One Projects)
 
 Some beginning level projects from my first semester in web development and design
@@ -38,9 +47,18 @@ Some beginning level projects from my first semester in web development and desi
 
 Some basic intermediate level projects from my second semester in web development and design
 
-[Homepage](https://marylynntom.github.io/missionBit2/index.html)
+[Homepage](https://marylynntom.github.io/missionBit2)
 
 [Other Projects](https://github.com/marylynntom/missionBit2/tree/master/)
+
+
+## Unicorns In Space
+
+An group-created adventure game from my third semester at Mission Bit
+
+[Homepage](https://marylynntom.github.io/unicornsInSpace)
+
+[Other Projects](https://github.com/marylynntom/unicornsInSpace/tree/master/)
 
 
 ## Girls Who Code: Women's Health and Safety
