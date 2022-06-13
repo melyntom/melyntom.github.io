@@ -16,15 +16,6 @@ A basic portfolio website that features some projects and incorporates responsiv
 [Portfolio Site Directory](https://github.com/marylynntom/UdacityPortfolioSite/tree/master/)
 
 
-## Amelia Summers' Photography Site
-
-A web development and design project in collaboration with Amelia Summers
-
-[Homepage](https://ameliasummers.github.io/index.html)
-
-[Website Repository](https://www.github.com/ameliasummers/ameliasummers.github.io/tree/master/)
-
-
 ## Run To Your Beat
 
 A musical exercising project: first place winner of the Hack The Fog Hackathon 2018
