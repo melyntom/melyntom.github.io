@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/*!
+* Custom CSS for Melyn Tom portfolio website
+* Copyright 2022 Melyn Tom
+*/
+
+/***** About Section Customizations ****/
+.about-section-line {
+  line-height: 2rem;
+}
+.about-section-end {
+  margin-bottom: 5rem;
+}
+
+/***** Project Section Customizations ****/
+.project {
+  background-color: rgba(244, 228, 221, 0.9);
+}
+.project-img {
+  opacity: 0.8;
+}
+
+.featured-keywords {
+  color: #f7a5a5;
+  font-style: italic;
+}
+.keywords {
+  margin-top: 0.8rem;
+  color: #50817e;
+  font-style: italic;
+}
+
+/***** Contact Section Customizations ***/
+.card-text > h4 {
+  color: #6a434d;
+}
+.card-text > div {
+  color: rgba(106, 67, 77, 0.8);
+}
+
+/***** Text Style Modifiers *****/
+.text-highlight {
+  font-family: 'Stalemate', cursive;
+  font-size: 2rem;
+}
+
+.text-cornflower {
+  color: #6495ed;
+}
+.text-desertrose {
+  color: #a86d8f;
+}
+.text-silver {
+  color: #708090;
+}
+
+/***** Custom Scrollbar *****/
+/* width */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 8px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #c4c9dd; 
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #ead6c9; 
+}
