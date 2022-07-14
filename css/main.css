@@ -4058,7 +4058,6 @@ textarea.form-control-lg {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
-  height: 5rem;
 }
 
 .nav-link {
@@ -11517,12 +11516,12 @@ body {
   }
   #mainNav .navbar-brand {
     visibility: hidden;
-    padding: 0.5rem 0;
+    padding: 1rem 0 0.5rem;
     color: #fff;
   }
   #mainNav .nav-link {
     transition: none;
-    padding: 2rem 1.5rem;
+    padding: 1.8rem 1.5rem;
     color: #fff;
   }
   #mainNav .nav-link:hover {
@@ -11540,7 +11539,7 @@ body {
   }
   #mainNav.navbar-shrink .nav-link {
     color: #93764e;
-    padding: 1.5rem 1.5rem 1.25rem;
+    padding: 1.8rem 1.5rem 1.25rem;
     border-bottom: 0.25rem solid transparent;
   }
   #mainNav.navbar-shrink .nav-link:hover {
