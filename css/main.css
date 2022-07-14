@@ -11661,13 +11661,15 @@ body {
   font-size: 0.9rem;
 }
 .projects-section .project-text {
-  padding: 3rem;
+  padding: 0 3rem;
   font-size: 90%;
 }
-@media (min-width: 992px) {
+@media (max-width: 991px) {
   .projects-section .project-text {
-    padding: 5rem;
+    padding: 2rem 3rem;
   }
+}
+@media (min-width: 992px) {
   .projects-section .project-text hr {
     border-color: #64a19d;
     border-width: 0.25rem;
