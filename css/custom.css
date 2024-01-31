@@ -4,17 +4,31 @@
 * Copyright 2022 Melyn Tom
 */
 
+body {
+	background-color: #fff5f5;
+}
+
 /***** About Section Customizations ****/
+.about-section hr {
+	width: 25%;
+}
 .about-section-line {
   line-height: 2rem;
 }
 .about-section-end {
   margin-bottom: 5rem;
 }
+.about-text {
+	padding: 0 2rem 0 0;
+}
+.profile {
+	border-radius: 0 40px 40px 40px;
+	max-width: 348px;
+}
 
 /***** Project Section Customizations ****/
 .project {
-  background-color: rgba(244, 228, 221, 0.9);
+  background-color: rgba(189, 151, 136, 0.2);
 }
 .project-img {
   opacity: 0.8;
@@ -44,8 +58,8 @@
   font-size: 2rem;
 }
 
-.text-cornflower {
-  color: #6495ed;
+.text-accent-blue {
+  color: #6db6c6;
 }
 .text-desertrose {
   color: #a86d8f;
@@ -67,11 +81,11 @@
  
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #c4c9dd; 
+  background: rgba(109, 182, 198, 0.4); 
   border-radius: 10px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #ead6c9; 
+  background: rgba(189, 151, 136, 0.2); 
 }
