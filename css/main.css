@@ -11588,7 +11588,7 @@ body {
 .masthead h2, .masthead .h2 {
   max-width: 20rem;
   font-size: 1rem;
-  color: #fff3e7;
+  color: rgba(255, 255, 255, 0.85);
 }
 @media (max-width: 575px) {
   .masthead h1, .masthead .h1 {
@@ -11641,11 +11641,16 @@ body {
 .projects-section .featured-text {
   padding: 2rem;
 }
-@media (min-width: 992px) {
-  .projects-section .featured-text {
-    padding: 0 0 0 2rem;
-    border-left: 0.5rem solid rgba(109, 182, 198, 0.4);
-  }
+@media (min-width: 1200px) {
+	.projects-section .featured-text {
+		padding: 0 0 0 2rem;
+		border-left: 0.5rem solid rgba(109, 182, 198, 0.4);
+	}
+}
+@media (min-width: 992px) and (max-width: 1199.9px) {
+	.featured-img {
+		border-right: 0.5rem solid rgba(109, 182, 198, 0.4);
+	}
 }
 .projects-section {
   color: #7c7c7a;

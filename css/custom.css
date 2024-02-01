@@ -13,79 +13,96 @@ body {
 	width: 25%;
 }
 .about-section-line {
-  line-height: 2rem;
+	line-height: 2rem;
 }
 .about-section-end {
-  margin-bottom: 5rem;
+	margin-bottom: 5rem;
 }
 .about-text {
-	padding: 0 2rem 0 0;
+	padding: 0;
 }
 .profile {
 	border-radius: 0 40px 40px 40px;
-	max-width: 348px;
+}
+
+@media (min-width: 992px) {
+	.about-text {
+		padding: 0 2rem 0 0;
+	}
+}
+@media (min-width: 400px) {
+	.profile {
+		max-width: 348px;
+	}
 }
 
 /***** Project Section Customizations ****/
-.project {
-  background-color: rgba(189, 151, 136, 0.2);
-}
-.project-img {
-  opacity: 0.8;
-}
-
 .featured-keywords {
-  color: #f7a5a5;
-  font-style: italic;
+	color: #f7a5a5;
+	font-style: italic;
 }
 .keywords {
-  margin-top: 0.8rem;
-  color: #50817e;
-  font-style: italic;
+	margin-top: 0.8rem;
+	color: #50817e;
+	font-style: italic;
+}
+.project {
+	background-color: rgba(189, 151, 136, 0.2);
+}
+.project-img {
+	opacity: 0.75;
+	transition: 0.3s;
+}
+.project-img:hover {
+	opacity: 0.9;
+	transition: 0.5s;
+}
+.projects-section .featured-text {
+    padding: 0 0 0 2rem;
 }
 
 /***** Contact Section Customizations ***/
 .card-text > h4 {
-  color: #6a434d;
+  	color: #6a434d;
 }
 .card-text > div {
-  color: rgba(106, 67, 77, 0.8);
+  	color: rgba(106, 67, 77, 0.8);
 }
 
 /***** Text Style Modifiers *****/
 .text-highlight {
-  font-family: 'Stalemate', cursive;
-  font-size: 2rem;
+	font-family: 'Stalemate', cursive;
+	font-size: 2rem;
 }
 
 .text-accent-blue {
-  color: #6db6c6;
+	color: #6db6c6;
 }
 .text-desertrose {
-  color: #a86d8f;
+	color: #a86d8f;
 }
 .text-silver {
-  color: #708090;
+	color: #708090;
 }
 
 /***** Custom Scrollbar *****/
 /* width */
 ::-webkit-scrollbar {
-  width: 8px;
+	width: 8px;
 }
 
 /* Track */
 ::-webkit-scrollbar-track {
-  border-radius: 8px;
+	border-radius: 8px;
 }
  
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(109, 182, 198, 0.4); 
-  border-radius: 10px;
+	background: rgba(109, 182, 198, 0.4); 
+	border-radius: 10px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(189, 151, 136, 0.2); 
+	background: rgba(189, 151, 136, 0.2); 
 }
