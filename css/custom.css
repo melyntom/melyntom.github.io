@@ -29,6 +29,9 @@ body {
 	.about-text {
 		padding: 0 2rem 0 0;
 	}
+	.projects-section .featured-text {
+		padding: 0 0 0 2rem;
+	}
 }
 @media (min-width: 400px) {
 	.profile {
@@ -43,7 +46,7 @@ body {
 }
 .keywords {
 	margin-top: 0.8rem;
-	color: #50817e;
+	color: rgba(124, 124, 122, 0.7);
 	font-style: italic;
 }
 .project {
@@ -57,6 +60,12 @@ body {
 	opacity: 0.9;
 	transition: 0.5s;
 }
+.project-link {
+	text-decoration: none;
+}
+.project-link:hover {
+	color: #a86d8f;
+}
 .projects-section .featured-text {
     padding: 0 0 0 2rem;
 }
@@ -67,6 +76,9 @@ body {
 }
 .card-text > div {
   	color: rgba(106, 67, 77, 0.8);
+}
+.contact-icon {
+	color: #a86d8f;
 }
 
 /***** Text Style Modifiers *****/

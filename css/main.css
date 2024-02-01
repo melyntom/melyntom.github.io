@@ -246,11 +246,11 @@ sup {
 }
 
 a {
-  color: #a16468;
-  text-decoration: underline;
+  color: #a86d8f;
+  text-decoration: none;
 }
 a:hover {
-  color: #50817e;
+  color: #f7a5a5;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -11546,9 +11546,8 @@ body {
   #mainNav.navbar-shrink .nav-link:active {
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #a16468;
     outline: none;
-    border-bottom: 0.25rem solid #a16468;
+    border-bottom: 0.25rem solid #a86d8f;
   }
 }
 
@@ -11632,7 +11631,6 @@ body {
 .about-section {
   max-width: 100vw;
   padding-top: 5rem;
-  color: rgba(255, 243, 231, 0.9);
 }
 
 .projects-section {
@@ -11643,7 +11641,7 @@ body {
 }
 @media (min-width: 1200px) {
 	.projects-section .featured-text {
-		padding: 0 0 0 2rem;
+		padding: 0;
 		border-left: 0.5rem solid rgba(109, 182, 198, 0.4);
 	}
 }
@@ -11675,6 +11673,7 @@ body {
     border-color: #64a19d;
     border-width: 0.25rem;
     width: 30%;
+	background-color: #7c7c7a;
   }
 }
 
@@ -11688,7 +11687,7 @@ body {
 }
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #a97866;
+  border-bottom: 0.25rem solid rgba(161, 100, 104, 0.8);
 }
 .contact-section .card h4, .contact-section .card .h4 {
   font-size: 0.8rem;
@@ -11711,7 +11710,7 @@ body {
   background: rgba(245, 230, 224, 0.25);
   border-radius: 100%;
   line-height: 3rem;
-  color: rgba(169, 120, 102, 0.8);
+  color: rgba(161, 100, 104, 0.6);
 }
 .contact-section .social a:hover {
   color: rgba(255, 255, 255, 0.5);
